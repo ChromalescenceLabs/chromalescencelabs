@@ -33,5 +33,6 @@
   <ul>
     <li> EMAIL: chromalescencelabs@gmail.com </li>
     <li> SLACK: Chromalescence Labs </li>
+    <li> X/TWITTER: @Chromalesclabs </li>
   </ul>
 
