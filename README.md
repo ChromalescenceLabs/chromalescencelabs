@@ -14,7 +14,7 @@
   <tr>
     <td width="16.66%"><a href="https://github.com/IgniFyris"> IgniFyris </a> </td>
     <td width="16.66%"><a href="https://github.com/alliumC"> AlliumC </td>
-    <td width="16.66%"><a href="https://github.com/lostautonomy"> Lostautonomy </td>
+    <td width="16.66%"><a href="https://github.com/raphlticket"> RaphlTicket </td>
     <td width="16.66%"><a href="https://github.com/Galaxy0902-max"> Kri3tyyGalaxii </td>
     <td width="16.66%"><a href="https://github.com/Akio1997"> Akio </td>
     <td width="16.66%"><a href="https://github.com/TheVentInGhub"> TheVentInTown </td>
