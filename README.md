@@ -26,7 +26,7 @@
   <li><b>Programming Languages: </b> GDScript, HTML, CSS, JavaScript</li>
   <li><b>Art: </b> IbisPaintX, Libresprite </li>
   <li><b>Music: </b> BeepBox, Bandlab</li>
-  <li><b>Video Editing: Davinci Resolve, Capcut, Kinemaster</b></li>
+  <li><b>Video Editing: </b>Davinci Resolve, Capcut, Kinemaster, Alight Motion</li>
 </ul>
 
  ## ✉️ Contact us:
